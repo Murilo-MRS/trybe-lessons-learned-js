@@ -5,11 +5,10 @@ body {
 }
 
 #cabecalho {
-  background-color: rgb(253, 251, 251);
   position: fixed;
   top: 0;
   left: 0;
-  background-color: blue;
+  background-color: rgb(55, 74, 103);
   width: 100%;
 }
 
@@ -17,7 +16,8 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 36px;
   height: auto;
+  color: rgb(253, 251, 251);
   margin: auto;
   padding: 5px;
-  border: 1px black solid;
+  border: 1px rgb(14, 17, 22) solid;
 }
