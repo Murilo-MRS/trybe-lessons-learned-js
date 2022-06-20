@@ -3,6 +3,16 @@ body {
 }
 
 #cabecalho {
+  background-color: rgb(253, 251, 251);
   position: fixed;
   top: 0;
+  left: 0;
+  background-color: blue;
+  width: 100%;
+}
+
+#titulo {
+    margin: auto;
+    padding: 5px;
+    border: 1px black solid;
 }
