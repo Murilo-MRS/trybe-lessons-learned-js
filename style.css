@@ -23,18 +23,18 @@ body {
 }
 
 aside p {
-    line-height: 1.6;
+  line-height: 1.6;
 }
 aside h1 {
-    font: 100;
+  font: 100;
 }
 
 .lado-esquerdo {
-    display: inline-block;
-    width: 40%;
+  display: inline-block;
+  width: 40%;
 }
 
 .lado-direito {
-    display: inline-block;
-    width: 40%;
+  display: inline-block;
+  width: 40%;
 }
