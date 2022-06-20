@@ -28,3 +28,13 @@ aside p {
 aside h1 {
     font: 100;
 }
+
+.lado-esquerdo {
+    display: inline-block;
+    width: 40%;
+}
+
+.lado-direito {
+    display: inline-block;
+    width: 40%;
+}
