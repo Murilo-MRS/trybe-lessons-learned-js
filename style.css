@@ -21,3 +21,10 @@ body {
   padding: 5px;
   border: 1px rgb(14, 17, 22) solid;
 }
+
+aside p {
+    line-height: 1.6;
+}
+aside h1 {
+    font: 100;
+}
